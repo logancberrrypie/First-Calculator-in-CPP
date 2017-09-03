@@ -1,0 +1,25 @@
+C:\Users\logancberry\OneDrive\C#\Forms\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\logancberry\OneDrive\C#\Forms\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\logancberry\OneDrive\C#\Forms\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\logancberry\OneDrive\C#\Forms\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\logancberry\OneDrive\C#\Forms\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\logancberry\OneDrive\C#\Forms\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\logancberry\OneDrive\C#\Forms\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\logancberry\OneDrive\C#\Forms\Calculator\Calculator\obj\Debug\Calculator.TextBox.resources
+C:\Users\logancberry\OneDrive\C#\Forms\Calculator\Calculator\bin\Debug\Calculator.exe.manifest
+C:\Users\logancberry\OneDrive\C#\Forms\Calculator\Calculator\bin\Debug\Calculator.application
+C:\Users\logancberry\OneDrive\C#\Forms\Calculator\Calculator\obj\Debug\Calculator.exe.manifest
+C:\Users\logancberry\OneDrive\C#\Forms\Calculator\Calculator\obj\Debug\Calculator.application
+C:\Users\logancberry\OneDrive\C#\Forms\Calculator 0.1\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\logancberry\OneDrive\C#\Forms\Calculator 0.1\Calculator\obj\Debug\Calculator.exe
+C:\Users\logancberry\OneDrive\C#\Forms\Calculator 0.1\Calculator\obj\Debug\Calculator.pdb
+C:\Users\logancberry\OneDrive\C#\Forms\Calculator 0.1\Calculator\bin\Debug\Calculator.exe.manifest
+C:\Users\logancberry\OneDrive\C#\Forms\Calculator 0.1\Calculator\bin\Debug\Calculator.application
+C:\Users\logancberry\OneDrive\C#\Forms\Calculator 0.1\Calculator\bin\Debug\Calculator.exe
+C:\Users\logancberry\OneDrive\C#\Forms\Calculator 0.1\Calculator\bin\Debug\Calculator.pdb
+C:\Users\logancberry\OneDrive\C#\Forms\Calculator 0.1\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\logancberry\OneDrive\C#\Forms\Calculator 0.1\Calculator\obj\Debug\Calculator.TextBox.resources
+C:\Users\logancberry\OneDrive\C#\Forms\Calculator 0.1\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\logancberry\OneDrive\C#\Forms\Calculator 0.1\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\logancberry\OneDrive\C#\Forms\Calculator 0.1\Calculator\obj\Debug\Calculator.exe.manifest
+C:\Users\logancberry\OneDrive\C#\Forms\Calculator 0.1\Calculator\obj\Debug\Calculator.application
